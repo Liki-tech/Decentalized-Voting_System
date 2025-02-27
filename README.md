@@ -23,7 +23,7 @@ The Decentralized Voting Application is a secure and efficient voting system bui
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DecentralizedVotingApplication.git
+   git clone https://github.com/Liki-tech/DecentralizedVotingApplication.git
    ```
 
 2. Navigate to the project directory:
